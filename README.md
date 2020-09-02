@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Zach and I am a fullstack web developer! I am currently studying Computer Science at the University of Florida.
+
 <!--
 **zacowan/zacowan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
