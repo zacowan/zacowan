@@ -1,6 +1,17 @@
-### Hi there 👋
+# Zach Cowan
 
-My name is Zach and I am a fullstack web developer! I am currently studying Computer Science at the University of Florida.
+## Getting Started
+
+### My Skills
+- Web development (particularly with React)
+- Backend API development
+- Software testing methodologies
+- Continuous integration and continuous deployment
+
+### My Professional Experience
+- Software Engineer Intern @AmericanExpress (Summer 2021)
+- Software Engineer Intern @AmericanExpress (Summer 2020)
+- Software Engineer Intern @LockheedMartin (Summer 2019)
 
 <!--
 **zacowan/zacowan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
