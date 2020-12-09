@@ -1,4 +1,4 @@
-# Zach Cowan
+# Profile
 
 ## Getting Started
 
