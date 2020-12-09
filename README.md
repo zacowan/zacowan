@@ -9,7 +9,6 @@
 - Continuous integration and continuous deployment
 
 ### My Professional Experience
-- Software Engineer Intern @AmericanExpress (Summer 2021)
 - Software Engineer Intern @AmericanExpress (Summer 2020)
 - Software Engineer Intern @LockheedMartin (Summer 2019)
 
