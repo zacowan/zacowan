@@ -2,13 +2,13 @@
 
 ## Getting Started
 
-### My Skills
+### Skills
 - Web development (particularly with React)
 - Backend API development
 - Software testing methodologies
 - Continuous integration and continuous deployment
 
-### My Professional Experience
+### Professional Experience
 - Software Engineer Intern @AmericanExpress (Summer 2020)
 - Software Engineer Intern @LockheedMartin (Summer 2019)
 
