@@ -3,6 +3,7 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				.container {
+					position: relative;
 					font-family:
 						system-ui,
 						-apple-system,
@@ -26,17 +27,25 @@
 					text-align: center;
 				}
 
-                .container:hover {
-                    transform: scale(1.05);
-                }
+                .container > svg {
+					--size: 48px;
+					position: absolute;
+					right: var(--size);
+					bottom: var(--size);
+					width: var(--size);
+					height: var(--size);
+				}
 
 				h1 {
 					font-size: 64px;
-                    font-weight: 700;
+                    font-weight: 400;
 				}
 			</style>
 			<div class="container">
-				<h1>View Portfolio</h1>
+				<h1>zacowan.com</h1>
+				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+  					<path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
+				</svg>
 			</div>
 		</div>
 	</foreignObject>
