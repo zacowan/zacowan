@@ -1,4 +1,4 @@
-<svg title="zacowan.com" fill="none" viewBox="0 0 200 200" width="auto" height="auto" xmlns="http://www.w3.org/2000/svg">
+<svg title="zacowan.com" fill="none" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -28,8 +28,8 @@
 				}
 
                 .container > svg {
-					--size: 24px;
-					--position: 24px;
+					--size: 8px;
+					--position: 8px;
 					position: absolute;
 					right: var(--position);
 					bottom: var(--position);
@@ -38,7 +38,7 @@
 				}
 
 				h1 {
-					font-size: 32px;
+					font-size: 16px;
                     font-weight: 400;
 				}
 			</style>
