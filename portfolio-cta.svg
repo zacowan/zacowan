@@ -21,15 +21,15 @@
 					margin: 0;
 					width: 200px;
 					height: 200px;
-					border-radius: 12px;
+					border-radius: 24px;
 					color: black;
 					text-align: center;
 					background-color: #fcd34d;
 				}
 
                 .container > svg {
-					--size: 8px;
-					--position: 8px;
+					--size: 12px;
+					--position: 12px;
 					position: absolute;
 					right: var(--position);
 					bottom: var(--position);
@@ -38,7 +38,7 @@
 				}
 
 				h1 {
-					font-size: 16px;
+					font-size: 21px;
                     font-weight: 400;
 				}
 			</style>
